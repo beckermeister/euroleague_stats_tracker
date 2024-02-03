@@ -1,2 +1,3 @@
 .venv/
 data/
+!data/external/Team stats.xlsx
